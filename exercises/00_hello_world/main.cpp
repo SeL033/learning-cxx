@@ -1,4 +1,4 @@
-#include "C:\Users\Se\learning-cxx\exercises\exercise.h"
+#include "../exercise.h"
 
 // READ: std streams <https://zh.cppreference.com/w/cpp/io/c/std_streams>
 // READ: 流修饰符 <https://zh.cppreference.com/w/cpp/io/manip>
